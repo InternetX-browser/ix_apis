@@ -26,7 +26,7 @@ Please, receive or reject the certificate with pressing ones of this options
 <img src="./special_file_storage/admin_reject.svg">
 </p>
 
-## Our contributors <img src="./special_file_storage/computer_emoji.png" width="20" height="20">
+## Our contributors <a href="https://Computer-emoji"><img src="./special_file_storage/computer_emoji.png" width="20" height="20"/></a>
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/170886455?v=4" width="64px" height="64px">
