@@ -28,7 +28,7 @@ Please, receive or reject the certificate with pressing ones of this options
 
 ## Where are the APIs?
 
-On a :electron: React site (On development)
+On one of :electron: React site (On development). You can see files on this folder [Click to visit](./docs) <img src="https://raw.githubusercontent.com/InternetX-browser/ix_emojis/43558454162c3de22aa72f8f01683e7e0162ecc0/emojis/arrow_right.svg" width="20" height="20">
 
 ## Our contributors <a href="https://Computer-emoji"><img src="https://raw.githubusercontent.com/InternetX-browser/ix_emojis/dbb363dfc66ac411b15746776fe8e8beb7908655/emojis/computer_emoji.svg" width="20" height="20"/></a>
 
